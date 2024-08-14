@@ -27,7 +27,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/focus-enhancer.git
+    git clone https://github.com/pavan1609/Automated-Focus-Enhancing-Companion.git
     cd focus-enhancer
     ```
 
